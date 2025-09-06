@@ -87,7 +87,7 @@ Chittagong Polytechnic Institute (2021 - 2024)
 * Bengali — Native
 
 
-# GitHub stats (optional)
+# GitHub stats
 
 ![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrrafi2&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrrafi2&layout=compact&theme=tokyonight)
