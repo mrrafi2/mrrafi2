@@ -1,7 +1,7 @@
 
 # Abdus Sayem Rafi
 Full Stack Web Application Developer  
-Building reliable, accessible, and high-performance web apps with React, Next.js, Node.js, and Firebase.
+Building reliable, accessible, and high-performance web apps with modern techs.
 
 # Professional summary
 I build production-ready web applications that prioritize reliability, accessibility, and performance. I focus on practical fixes that reduce failed uploads, shrink load times on weak networks, and make product experiences robust for real users. I ship with an emphasis on server-side rendering, resumable uploads, and component-driven code that’s easy to maintain and scale. :contentReference[oaicite:0]{index=0}
@@ -10,10 +10,10 @@ I build production-ready web applications that prioritize reliability, accessibi
 
 Available for remote freelance, part-time, or full-time roles. If you have a problem where users are losing trust due to poor reliability or slow pages on weak connections, I can fix that and ship measurable improvements.
 
-Email: [rafibd2290@gmail.com](mailto:rafibd2290@gmail.com)
-Phone: +880 1855-391396
-Portfolio: [https://rafis-portfolio.vercel.app](https://rafis-portfolio.vercel.app)
-LinkedIn: [https://www.linkedin.com/in/abdus-sayem-rafi](https://www.linkedin.com/in/abdus-sayem-rafi)
+-Email: [rafibd2290@gmail.com](mailto:rafibd2290@gmail.com)
+-Phone: +880 1855-391396
+-Portfolio: [https://rafis-portfolio.vercel.app](https://rafis-portfolio.vercel.app)
+-LinkedIn: [https://www.linkedin.com/in/abdus-sayem-rafi](https://www.linkedin.com/in/abdus-sayem-rafi)
 
 
 # Highlights and impact
@@ -23,17 +23,25 @@ LinkedIn: [https://www.linkedin.com/in/abdus-sayem-rafi](https://www.linkedin.co
 - Strong focus on accessibility, SEO, performance, and resilient UX on weak mobile networks.
 
 # Core skills
-- Frontend: React, Next.js, Vite, React Query, Tailwind CSS  
-- Backend & infra: Node.js, Firebase (Auth, Realtime DB, Storage), Serverless checks, MongoDB concepts  
-- Performance & reliability: SSR/SSG, lazy loading, image compression, offline caching, resumable uploads  
+- Frontend: JavaScript, TypeScript React, Next.js, Vite, Tailwind CSS, Bootstrap
+- 
+- Backend & infra: Node.js, Firebase (Auth, Realtime DB, Storage), Serverless checks, MongoDB concepts
+- 
+- Performance & reliability: SSR/SSG, lazy loading, image compression, offline caching, resumable uploads
+- 
 - Product & process: API design, accessibility, monitoring, stress testing, code review ownership
 
 # Tech stack (quick)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=fff)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=fff)
 
 # Featured projects
