@@ -10,10 +10,10 @@ I build production-ready web applications that prioritize reliability, accessibi
 
 Available for remote freelance, part-time, or full-time roles. If you have a problem where users are losing trust due to poor reliability or slow pages on weak connections, I can fix that and ship measurable improvements.
 
--Email: [rafibd2290@gmail.com](mailto:rafibd2290@gmail.com)
--Phone: +880 1855-391396
--Portfolio: [https://rafis-portfolio.vercel.app](https://rafis-portfolio.vercel.app)
--LinkedIn: [https://www.linkedin.com/in/abdus-sayem-rafi](https://www.linkedin.com/in/abdus-sayem-rafi)
+- Email: [rafibd2290@gmail.com](mailto:rafibd2290@gmail.com)
+- Phone: +880 1855-391396
+- Portfolio: [https://rafis-portfolio.vercel.app](https://rafis-portfolio.vercel.app)
+- LinkedIn: [https://www.linkedin.com/in/abdus-sayem-rafi](https://www.linkedin.com/in/abdus-sayem-rafi)
 
 
 # Highlights and impact
@@ -24,11 +24,11 @@ Available for remote freelance, part-time, or full-time roles. If you have a pro
 
 # Core skills
 - Frontend: JavaScript, TypeScript React, Next.js, Vite, Tailwind CSS, Bootstrap
-- 
+  
 - Backend & infra: Node.js, Firebase (Auth, Realtime DB, Storage), Serverless checks, MongoDB concepts
-- 
+  
 - Performance & reliability: SSR/SSG, lazy loading, image compression, offline caching, resumable uploads
-- 
+  
 - Product & process: API design, accessibility, monitoring, stress testing, code review ownership
 
 # Tech stack (quick)
@@ -86,12 +86,6 @@ Chittagong Polytechnic Institute (2021 - 2024)
 * English — Professional proficiency
 * Bengali — Native
 
-
-# Pinned repos (suggestion)
-
-* Neon Cart — ecommerce platform (link)
-* Quiver — realtime messaging (link)
-* Brainiac — blogging platform (link)
 
 # GitHub stats (optional)
 
