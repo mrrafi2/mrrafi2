@@ -1,5 +1,5 @@
 <img width="1584" height="396" alt="Personal Profile Linkedin Banner" src="https://github.com/user-attachments/assets/de1ba7b0-c9a2-4e9b-b8be-7bd746cea759" />
-)
+
 ## Building reliable, accessible, and high-performance web apps with modern techs.
 
 # Professional summary
