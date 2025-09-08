@@ -1,7 +1,6 @@
-
-# Abdus Sayem Rafi
-Full Stack Web Application Developer  
-Building reliable, accessible, and high-performance web apps with modern techs.
+<img width="1584" height="396" alt="Personal Profile Linkedin Banner" src="https://github.com/user-attachments/assets/de1ba7b0-c9a2-4e9b-b8be-7bd746cea759" />![Banner](./![Personal Profile Linkedin Banner.png…]()
+)
+## Building reliable, accessible, and high-performance web apps with modern techs.
 
 # Professional summary
 I build production-ready web applications that prioritize reliability, accessibility, and performance. I focus on practical fixes that reduce failed uploads, shrink load times on weak networks, and make product experiences robust for real users. I ship with an emphasis on server-side rendering, resumable uploads, and component-driven code that’s easy to maintain and scale. :contentReference[oaicite:0]{index=0}
